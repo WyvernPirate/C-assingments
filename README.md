@@ -1,2 +1,2 @@
 # C assingments
- This repo contains C assingments for y1 students
+ This repo contains C assingments for y2 students
